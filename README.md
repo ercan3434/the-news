@@ -12,7 +12,7 @@ A part of the codes has been published in this project.
 
 ## Demo Video
 
-[The News](https://ercancimen.tk/video/the-news)
+[Demo Video The News](https://ercancimen.tk/video/the-news)
 
 ## Demo Domain
 
