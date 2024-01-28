@@ -12,6 +12,10 @@ A part of the codes has been published in this project.
 
 ## Demo Video
 
+
+https://github.com/ercan3434/the-news/assets/59047750/ca23d5a3-4161-44e6-be1e-91750f386c71
+
+
 <video width="320" height="240" controls autoPlay loop muted><source src="./public/video/the-news-1.mp4" type="video/mp4"/></video>
 
 ## Demo Domain
