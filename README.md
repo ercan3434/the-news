@@ -12,7 +12,10 @@ A part of the codes has been published in this project.
 
 ## Demo Video
 
-[the-news.mp4](public/video/the-news.mp4)
+<video className={styles["home-video"]} autoPlay loop muted>
+
+<source src="public/video/the-news.mp4" type="video/mp4" />
+</video>
 
 ## Demo Domain
 
