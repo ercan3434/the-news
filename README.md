@@ -12,7 +12,7 @@ A part of the codes has been published in this project.
 
 ## Demo Video
 
-<video width="320" height="240" controls autoPlay loop muted><source src="public/video/the-news.mp4" type="video/mp4"/></video>
+<video width="320" height="240" controls autoPlay loop muted><source src="./public/video/the-news.mp4" type="video/mp4"/></video>
 
 ## Demo Domain
 
