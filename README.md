@@ -1,6 +1,6 @@
 # The News
 
-![Untitled](public/images/readme-logo.svg)
+![the-news](public/images/readme-logo.svg)
 
 # **What is The News?**
 
@@ -9,6 +9,10 @@ This project includes current and trending news. News is divided into categories
 ## Note:
 
 A part of the codes has been published in this project.
+
+## Demo Video
+
+[the-news.mp4](public/video/the-news.mp4)
 
 ## Demo Domain
 
