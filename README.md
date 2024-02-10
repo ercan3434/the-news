@@ -12,7 +12,7 @@ A part of the codes has been published in this project.
 
 ## Demo Video
 
-[Demo Video The News](https://the-news-one.vercel.app/video/the-news)
+[Demo Video The News](https://my-portfolio-ercan3434.vercel.app/video/the-news)
 
 ## Demo Domain
 
