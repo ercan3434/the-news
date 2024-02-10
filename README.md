@@ -16,7 +16,7 @@ A part of the codes has been published in this project.
 
 ## Demo Domain
 
-[The News](https://news.ercancimen.tk/)
+[The News](https://the-news-one.vercel.app/)
 
 ## **Tech Stack**
 
